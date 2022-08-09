@@ -5,7 +5,7 @@ JetWeather is an android application that takes advantage of the Jetpack Compose
 <ol> 
 	<li> Either fork or download the app from github and open android studio </li>
 	<li> Navigate to the Weather App application and ensure that you have an emulator set up  </li>
-	<li> Press the run button on the top navigation bar and the application should show appear on the emulator </li>
+	<li> Press the run button on the top navigation bar and the application should appear on the emulator </li>
 </ol>
 
 ## How to use the application 
